@@ -32,7 +32,7 @@ a {
    align-items: left;
    flex-direction: column;
    position: relative;
-   padding: 0 14vw;
+   padding: 0 12vw;
    background-color: #258EA6;
    overflow: hidden;
 }
@@ -86,7 +86,7 @@ a {
 }
 
 .bio {
-   font-size: 23px;
+   font-size: 24px;
 }
 
 .bio-block {
